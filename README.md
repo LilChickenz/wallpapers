@@ -3,3 +3,5 @@
 2: run setup.bat - I would recommend setting a storage size of at least 5gb
 
 you can edit config.json at any time after setup is run
+
+nothing automatically deletes wallpapers so the folder can get big fast
